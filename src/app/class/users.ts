@@ -13,7 +13,7 @@ export class Users {
         this.hireable = hireable;
         this.created_at = created_at;
         this.followers = followers;
-        this.following = follow;
+        this.following = following;
 
     }
 }
