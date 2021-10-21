@@ -15,7 +15,7 @@
           <input class="form-control mr-sm-2" type="text" placeholder="Git Username" aria-label="Search" [(ngModel)]="username" name = "username" (keyup)= "searchUser()">
           <button class="btn btn-outline-info my-2 my-sm-0" type="submit"> <i class="fas fa-search"></i>Search</button>
         </form>
-        <p class="searchtext">Enter Username to search for github profile</p>
+        <p class="searchtext">Enter github username</p>
       </div>
     </div>
     <!-- End of search section -->
@@ -102,7 +102,7 @@
 
 <!-- Begin of Repositories Section -->
       <div class="container-fluid">
-          <h4 class="style2">{{users.name | last}}'s Repositories</h4>
+          <h4 class="style2">{{users.name | last}} Repositories</h4>
           <hr class="style2">
         <div class="row">
 
