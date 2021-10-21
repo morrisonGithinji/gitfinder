@@ -29,43 +29,38 @@ Morriosn Njenga
 ## Known Bugs
 There are no known bugs. Contact me if you find.
 
+If you find a bug (the website couldn't handle the query and or gave undesired results), kindly open an issue here by including your search query and the expected result.
 
-## Live Website
-View the complete site [here](https://SophiaNM.github.io/GithubFinder/Github/)
+If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
+
 
 ## Technologies Used
 It is built using Angular JS, HTML, Bootstrap.
 The website uses components, custom directives, custom pipes, routing modules.
 The components in the application are:
 
-## Contributors
- - Sophia Murage
+## Contribute
+
+To fix a bug or enhance an existing module, follow these steps:
+- Fork the repo
+- Create a new branch (git checkout -b improve-feature)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (git commit -am 'Improve feature')
+- Push to the branch (git push origin improve-feature)
+- Create a Pull Request
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## License
 ---------
 ### MIT License
 
-Copyright (c) [2018] [Sophia Njeri Murage]
+Copyright (c) [2021] [Morriosn Njenga Githinji]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -87,8 +82,6 @@ SOFTWARE.
 
 
 ### Contact Information
-njerimurage92@gmail.com | snmurage1@gmail.com
+morrison.githinji@student.moringaschool.com
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
