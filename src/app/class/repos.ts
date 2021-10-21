@@ -4,7 +4,7 @@ export class Repos {
         this.name = name;
         this.html_url = html_url;
         this.description = description;
-        this.created_at = created_a;
+        this.created_at = created_at;
         
     }
     
