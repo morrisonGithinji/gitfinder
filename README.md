@@ -1,17 +1,18 @@
 # Github Finder
 
-This is the second Independent project for Moringa Core, June 1st, 2018.
+This is the second Independent project for Moringa Core, angular project.
 The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
 ## Description
 Github Finder is a web application that uses the GitHub API to perform searches on GitHub and display the results to the user.
 
+## Author
+Morriosn Njenga
 ## Features
 
 1. Uses the Github API to perform searches on Github, and display the results to the users.
 2. Users page searches for user profile strictly using the user name.
-3. Repositories page searches for repositories strictly using the repository name.
-4. Repository page loads 10  searches and one can click `load more` to view more pages.
+
 
 
 ## Behaviour Driven Development
