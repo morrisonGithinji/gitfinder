@@ -22,7 +22,7 @@ export class DataService {
   constructor(private http:Http) {
     console.log('service is ready');
     this.username = 'morrisonGithinji';
-    this.reponame = '';
+    this.reponame = 'inspirations';
     this.show = 10;
 
 
